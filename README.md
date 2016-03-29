@@ -7,6 +7,8 @@ http://openvnet.org
 
 If you have any questions about OpenVNet or just want to hang out, don't hesitate to contact us on the [Wakame Users Group](https://groups.google.com/forum/#!forum/wakame-ug).
 
+Currently development is continued in [this repository](https://github.com/axsh/openvnet).
+
 System requirements
 -------------------
 
